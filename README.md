@@ -6,5 +6,5 @@ Através de dados do censo americano de 1994, descubro indivíduos que têm a ma
 renda anual maior ou igual a $50000,através de aprendizado supervisionado. 
 
 Estes dados foram retirados de: https://archive.ics.uci.edu/ml/datasets/Census+Income .
-Ron Kohavi e Barry Becker doaram estes dados,depois de publicarem o artigo "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid".
+Ron Kohavi e Barry Becker doaram o conjunto de dados,depois de publicarem o artigo "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid".
 
