@@ -1,5 +1,6 @@
 # Projeto8
-Encontrando doadores para CharityML
+Encontrando doadores para CharityML-Engenheiro de Machine Learning-Udacity
+https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009
 
 Neste projeto de Machine Learning encontro doadores para uma instituição fictícia chamada CharityML.
 Através de dados do censo americano de 1994, descubro indivíduos que têm a maior chance de apresentarem
